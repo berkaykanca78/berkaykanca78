@@ -4,6 +4,7 @@
 <h3 align="center">Full-Stack Developer from ANKARA, TURKEY (TÜRKİYE) .</h3>
 <h4 align="center"> ~ Coding Monster ~</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="Coding" width="400" src="https://100numaraliadam.com/wp-content/uploads/2019/07/recep-ivedik-replikleri.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaykanca78&label=Profile%20views&color=0e75b6&style=flat" alt="berkaykanca78" /> </p>
 
