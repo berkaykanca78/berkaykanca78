@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif)](https://www.berkaykanca.com)
+[![MasterHead](https://miro.medium.com/max/1600/1*KlNlGjWBb0mScNgnX9Uxjw.gif)](https://www.berkaykanca.com)
 
 <h1 align="center">Hi 👋, I'm Berkay Kanca</h1>
 <h3 align="center">Full-Stack Developer from ANKARA, TURKEY (TÜRKİYE) .</h3>
