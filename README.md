@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/max/1600/1*KlNlGjWBb0mScNgnX9Uxjw.gif)](https://www.berkaykanca.com)
 
 <h1 align="center">Hi 👋, I'm Berkay Kanca</h1>
-<h3 align="center">Full-Stack Developer from ANKARA, TURKEY (TÜRKİYE) .</h3>
+<h3 align="center">Full-Stack Developer from Ankara, Turkey (Türkiye) .</h3>
 <h4 align="center"> ~ Coding Monster ~</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
