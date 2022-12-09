@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **berkaykanca@hotmail.com**
 
-- 📄 Know about my experiences [https://www.berkaykanca.com/assets/download/cv.pdf](https://www.berkaykanca.com/assets/download/cv.pdf)
+- 📄 Know about my experiences [https://www.berkaykanca.com/assets/download/BerkayKancaCVEnglish.pdf](https://www.berkaykanca.com/assets/download/BerkayKancaCVEnglish.pdf)
 
 - ⚡ Fun fact **I am Funny**
 
