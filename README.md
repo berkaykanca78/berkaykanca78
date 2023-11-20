@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/berkaykanca78" target="blank"><img src="https://img.shields.io/twitter/follow/berkaykanca78?logo=twitter&style=for-the-badge" alt="berkaykanca78" /></a> </p>
 
-- 🔭 I’m currently working on [HSYS Project](https://hsys.saglik.gov.tr/)
+- 🔭 I’m currently working on [EÇBS Project](https://ecbs.cevre.gov.tr/)
+- 🔭 I worked on [HSYS Project](https://hsys.saglik.gov.tr/)
 
 - 🌱 I’m currently learning and working **ASP .NET Core 7.0, Angular, React, Blazor, Vue, ASP.NET MVC, Javascript, Typescript, jQuery, CSS, HTML**
 
